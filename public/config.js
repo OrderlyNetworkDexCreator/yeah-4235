@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Rewards,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Rewards,Leaderboard,Swap",
   "VITE_CUSTOM_MENUS": "Docs, https://docs.yeah.com",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
